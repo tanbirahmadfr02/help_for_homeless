@@ -1,0 +1,941 @@
+@media (min-width: 1400px) {
+
+    /* ====header part start ==== */
+    #header_part p {
+        text-align: center;
+    }
+
+    /* ====header part end ==== */
+
+    /* =====menu part start ===== */
+    #main_menu .toggler_icon i {
+        font-size: 22px;
+        color: white;
+    }
+
+    .navbar-toggler {
+        border: 0;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    /* =====menu part end ===== */
+
+    /* =====banner part start ===== */
+    #banner_part .banner_slider .item .overlay {
+        padding: 250px 0 150px 0;
+    }
+
+    .heading {
+        font-size: 34px;
+    }
+
+    #banner_part .banner_slider .arrow {
+        height: 45px;
+        width: 45px;
+    }
+
+    #banner_part .banner_slider .prevarrow {
+        left: 10px;
+    }
+
+    #banner_part .banner_slider .nextarrow {
+        right: 10px;
+    }
+
+    .button a {
+        font-size: 15px;
+        padding: 16px 33px;
+    }
+
+    /* =====banner part end ===== */
+
+    /* ====about part start  ==== */
+    #about_part {
+        padding: 120px 0;
+    }
+
+    .heading {
+        font-size: 55px;
+        text-align: center;
+    }
+
+    .paragraph {
+        text-align: center;
+    }
+
+    .button {
+        text-align: center;
+        margin-bottom: 35px;
+    }
+
+    #causes_part {
+        padding: 20px 0 120px 0;
+    }
+
+    /* ====about part end  ==== */
+
+    /* =====causes slider part start ==== */
+    #causes_part .causes_slider .cause_detail h3 {
+        text-align: center;
+    }
+
+    /* =====causes slider part end ==== */
+
+    /* =====donators part start ==== */
+    #donators_part {
+        padding: 0px 0 100px;
+    }
+
+    /* =====donators part end ==== */
+
+    /* =====gallery part start ===== */
+    #gallery_part {
+        padding-bottom: 120px;
+    }
+
+    /* =====gallery part end ===== */
+
+    /* ===blog part start === */
+    #blog_part {
+        padding-bottom: 140px;
+    }
+
+    #blog_part .blog_slider .item {
+        padding: 25px 20px;
+    }
+
+    #blog_part .blog_slider h5 {
+        text-align: center;
+    }
+
+    #blog_part .blog_slider h4 {
+        text-align: center;
+    }
+
+    /* ===blog part end === */
+
+    /* ====contact part start ==== */
+    #contact_part {
+        padding-bottom: 50px;
+    }
+
+    #contact_part .contact_details .heading {
+        font-size: 40px;
+        margin-bottom: 39px;
+        text-align: left;
+    }
+
+    /* ====contact part end ==== */
+
+    /* ===footer part start === */
+    #footer_part .social_icon .icon {
+        height: 45px;
+        width: 45px;
+    }
+
+    #footer_part .social_icon {
+        gap: 5px;
+    }
+
+    #footer_part .social_icon .icon i {
+        font-size: 16px;
+    }
+
+    /* ===footer part end === */
+}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+    /* ====header part start ==== */
+    #header_part p {
+        text-align: center;
+    }
+
+    /* ====header part end ==== */
+
+    /* =====menu part start ===== */
+    #main_menu .toggler_icon i {
+        font-size: 22px;
+        color: white;
+    }
+
+    .navbar-toggler {
+        border: 0;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    /* =====menu part end ===== */
+
+    /* =====banner part start ===== */
+    #banner_part .banner_slider .item .overlay {
+        padding: 250px 0 150px 0;
+    }
+
+    .heading {
+        font-size: 34px;
+    }
+
+    #banner_part .banner_slider .arrow {
+        height: 45px;
+        width: 45px;
+    }
+
+    #banner_part .banner_slider .prevarrow {
+        left: 10px;
+    }
+
+    #banner_part .banner_slider .nextarrow {
+        right: 10px;
+    }
+
+    .button a {
+        font-size: 15px;
+        padding: 16px 33px;
+    }
+
+    /* =====banner part end ===== */
+
+    /* ====about part start  ==== */
+    #about_part {
+        padding: 120px 0;
+    }
+
+    .heading {
+        font-size: 55px;
+        text-align: center;
+    }
+
+    .paragraph {
+        text-align: center;
+    }
+
+    .button {
+        text-align: center;
+        margin-bottom: 35px;
+    }
+
+    #causes_part {
+        padding: 20px 0 120px 0;
+    }
+
+    /* ====about part end  ==== */
+
+    /* =====causes slider part start ==== */
+    #causes_part .causes_slider .cause_detail h3 {
+        text-align: center;
+    }
+
+    /* =====causes slider part end ==== */
+
+    /* =====donators part start ==== */
+    #donators_part {
+        padding: 0px 0 100px;
+    }
+
+    /* =====donators part end ==== */
+
+    /* =====gallery part start ===== */
+    #gallery_part {
+        padding-bottom: 120px;
+    }
+
+    /* =====gallery part end ===== */
+
+    /* ===blog part start === */
+    #blog_part {
+        padding-bottom: 140px;
+    }
+
+    #blog_part .blog_slider .item {
+        padding: 25px 20px;
+    }
+
+    #blog_part .blog_slider h5 {
+        text-align: center;
+    }
+
+    #blog_part .blog_slider h4 {
+        text-align: center;
+    }
+
+    /* ===blog part end === */
+
+    /* ====contact part start ==== */
+    #contact_part {
+        padding-bottom: 50px;
+    }
+
+    #contact_part .contact_details .heading {
+        font-size: 40px;
+        margin-bottom: 39px;
+        text-align: left;
+    }
+
+    /* ====contact part end ==== */
+
+    /* ===footer part start === */
+    #footer_part .social_icon .icon {
+        height: 45px;
+        width: 45px;
+    }
+
+    #footer_part .social_icon {
+        gap: 5px;
+    }
+
+    #footer_part .social_icon .icon i {
+        font-size: 16px;
+    }
+
+    /* ===footer part end === */
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /* ====header part start ==== */
+    #header_part p {
+        text-align: center;
+    }
+
+    /* ====header part end ==== */
+
+    /* =====menu part start ===== */
+    #main_menu .toggler_icon i {
+        font-size: 22px;
+        color: white;
+    }
+
+    .navbar-toggler {
+        border: 0;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    /* =====menu part end ===== */
+
+    /* =====banner part start ===== */
+    #banner_part .banner_slider .item .overlay {
+        padding: 250px 0 140px 0;
+    }
+
+    .heading {
+        font-size: 34px;
+    }
+
+    #banner_part .banner_slider .arrow {
+        height: 45px;
+        width: 45px;
+    }
+
+    #banner_part .banner_slider .prevarrow {
+        left: 10px;
+    }
+
+    #banner_part .banner_slider .nextarrow {
+        right: 10px;
+    }
+
+    .button a {
+        font-size: 15px;
+        padding: 13px 25px;
+    }
+
+    /* =====banner part end ===== */
+
+    /* ====about part start  ==== */
+    #about_part {
+        padding: 90px 0;
+    }
+
+    .heading {
+        font-size: 50px;
+        text-align: center;
+    }
+
+    .paragraph {
+        text-align: center;
+    }
+
+    .button {
+        text-align: center;
+        margin-bottom: 35px;
+    }
+
+    #causes_part {
+        padding: 5px 0 90px 0;
+    }
+
+    /* ====about part end  ==== */
+
+    /* =====causes slider part start ==== */
+    #causes_part .causes_slider .cause_detail h3 {
+        text-align: center;
+    }
+
+    /* =====causes slider part end ==== */
+
+    /* =====donators part start ==== */
+    #donators_part {
+        padding: 0px 0 90px;
+    }
+
+    /* =====donators part end ==== */
+
+    /* =====gallery part start ===== */
+    #gallery_part {
+        padding-bottom: 100px;
+    }
+
+    /* =====gallery part end ===== */
+
+    /* ===blog part start === */
+    #blog_part {
+        padding-bottom: 140px;
+    }
+
+    #blog_part .blog_slider .item {
+        padding: 25px 20px;
+    }
+
+    #blog_part .blog_slider h5 {
+        text-align: center;
+    }
+
+    #blog_part .blog_slider h4 {
+        text-align: center;
+    }
+
+    /* ===blog part end === */
+
+    /* ====contact part start ==== */
+    #contact_part {
+        padding-bottom: 50px;
+    }
+
+    #contact_part .contact_details .heading {
+        font-size: 40px;
+        margin-bottom: 39px;
+        text-align: left;
+    }
+
+    /* ====contact part end ==== */
+
+    /* ===footer part start === */
+    #footer_part .social_icon .icon {
+        height: 45px;
+        width: 45px;
+    }
+
+    #footer_part .social_icon {
+        gap: 5px;
+    }
+
+    #footer_part .social_icon .icon i {
+        font-size: 16px;
+    }
+
+    /* ===footer part end === */
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /* ====header part start ==== */
+    #header_part p {
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    /* ====header part end ==== */
+
+    /* =====menu part start ===== */
+    #main_menu .toggler_icon i {
+        font-size: 22px;
+        color: white;
+    }
+
+    .navbar-toggler {
+        border: 0;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    #main_menu {
+        top: 105px;
+    }
+
+    #main_menu .nav-link:hover::after {
+        left: -20px;
+    }
+
+    /* =====menu part end ===== */
+
+    /* =====banner part start ===== */
+    #banner_part .banner_slider .item .overlay {
+        padding: 250px 0 125px 0;
+    }
+
+    .heading {
+        font-size: 34px;
+    }
+
+    #banner_part .banner_slider .arrow {
+        height: 45px;
+        width: 45px;
+    }
+
+    #banner_part .banner_slider .prevarrow {
+        left: 10px;
+    }
+
+    #banner_part .banner_slider .nextarrow {
+        right: 10px;
+    }
+
+    .button a {
+        font-size: 15px;
+        padding: 11px 18px;
+    }
+
+    /* =====banner part end ===== */
+
+    /* ====about part start  ==== */
+    #about_part {
+        padding: 90px 0;
+    }
+
+    .heading {
+        font-size: 45px;
+        text-align: center;
+    }
+
+    .paragraph {
+        text-align: center;
+    }
+
+    .button {
+        text-align: center;
+        margin-bottom: 35px;
+    }
+
+    #causes_part {
+        padding: 5px 0 90px 0;
+    }
+
+    /* ====about part end  ==== */
+
+    /* =====causes slider part start ==== */
+    #causes_part .causes_slider .cause_detail h3 {
+        text-align: center;
+    }
+
+    /* =====causes slider part end ==== */
+
+    /* =====donators part start ==== */
+    #donators_part {
+        padding: 0px 0 80px;
+    }
+
+    /* =====donators part end ==== */
+
+    /* =====gallery part start ===== */
+    #gallery_part {
+        padding-bottom: 90px;
+    }
+
+    .gallery_btm {
+        margin-top: 30px;
+    }
+
+    .gallery_top {
+        margin-bottom: 30px;
+    }
+
+    /* =====gallery part end ===== */
+
+    /* ===blog part start === */
+    #blog_part {
+        padding-bottom: 130px;
+    }
+
+    #blog_part .blog_slider .item {
+        padding: 25px 20px;
+    }
+
+    #blog_part .blog_slider h5 {
+        text-align: center;
+    }
+
+    #blog_part .blog_slider h4 {
+        text-align: center;
+    }
+
+    /* ===blog part end === */
+
+    /* ====contact part start ==== */
+    #contact_part {
+        padding-bottom: 25px;
+    }
+
+    #contact_part .contact_details .heading {
+        font-size: 35px;
+        margin-bottom: 23px;
+    }
+
+    /* ====contact part end ==== */
+
+    /* ===footer part start === */
+    #footer_part .social_icon .icon {
+        height: 33px;
+        width: 33px;
+    }
+
+    #footer_part .social_icon {
+        gap: 5px;
+    }
+
+    #footer_part .social_icon .icon i {
+        font-size: 16px;
+    }
+
+    /* ===footer part end === */
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /* ====header part start ==== */
+    #header_part p {
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    /* ====header part end ==== */
+
+    /* =====menu part start ===== */
+    #main_menu .toggler_icon i {
+        font-size: 22px;
+        color: white;
+    }
+
+    .navbar-toggler {
+        border: 0;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    #main_menu {
+        top: 105px;
+    }
+
+    #main_menu .nav-link:hover::after {
+        left: -20px;
+    }
+
+    /* =====menu part end ===== */
+
+    /* =====banner part start ===== */
+    #banner_part .banner_slider .item .overlay {
+        padding: 250px 0 100px 0;
+    }
+
+    .heading {
+        font-size: 34px;
+    }
+
+    #banner_part .banner_slider .arrow {
+        height: 35px;
+        width: 35px;
+    }
+
+    #banner_part .banner_slider .prevarrow {
+        left: 0px;
+    }
+
+    #banner_part .banner_slider .nextarrow {
+        right: 0px;
+    }
+
+    .button a {
+        font-size: 15px;
+        padding: 9px 10px;
+    }
+
+    /* =====banner part end ===== */
+
+    /* ====about part start  ==== */
+    #about_part {
+        padding: 60px 0;
+    }
+
+    .heading {
+        font-size: 38px;
+        text-align: center;
+    }
+
+    .paragraph {
+        text-align: center;
+    }
+
+    .button {
+        text-align: center;
+        margin-bottom: 35px;
+    }
+
+    #causes_part {
+        padding: 5px 0 70px 0;
+    }
+
+    /* ====about part end  ==== */
+
+    /* =====causes slider part start ==== */
+    #causes_part .causes_slider .cause_detail h3 {
+        text-align: center;
+    }
+
+    /* =====causes slider part end ==== */
+
+    /* =====donators part start ==== */
+    #donators_part {
+        padding: 0px 0 80px;
+    }
+
+    /* =====donators part end ==== */
+
+    /* =====gallery part start ===== */
+    #gallery_part {
+        padding-bottom: 75px;
+    }
+
+    .gallery_btm {
+        margin-top: 30px;
+    }
+
+    .gallery_top {
+        margin-bottom: 30px;
+    }
+
+    /* =====gallery part end ===== */
+
+    /* ===blog part start === */
+    #blog_part {
+        padding-bottom: 100px;
+    }
+
+    #blog_part .blog_slider .item {
+        padding: 25px 20px;
+    }
+
+    #blog_part .blog_slider h5 {
+        text-align: center;
+    }
+
+    #blog_part .blog_slider h4 {
+        text-align: center;
+    }
+
+    /* ===blog part end === */
+
+    /* ====contact part start ==== */
+    #contact_part {
+        padding-bottom: 25px;
+    }
+
+    #contact_part .contact_details .heading {
+        font-size: 35px;
+        margin-bottom: 23px;
+    }
+
+    /* ====contact part end ==== */
+
+    /* ===footer part start === */
+    #footer_part .social_icon .icon {
+        height: 33px;
+        width: 33px;
+    }
+
+    #footer_part .social_icon {
+        gap: 5px;
+    }
+
+    #footer_part .social_icon .icon i {
+        font-size: 16px;
+    }
+
+    /* ===footer part end === */
+}
+
+@media (max-width: 575.98px) {
+
+    /* ====header part start ==== */
+    #header_part p {
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    /* ====header part end ==== */
+
+    /* =====menu part start ===== */
+    #main_menu .toggler_icon i {
+        font-size: 22px;
+        color: white;
+    }
+
+    .navbar-toggler {
+        border: 0;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    #main_menu {
+        top: 105px;
+    }
+
+    #main_menu .nav-link:hover::after {
+        left: -20px;
+    }
+
+    /* =====menu part end ===== */
+
+    /* =====banner part start ===== */
+    #banner_part .banner_slider .item .overlay {
+        padding: 250px 0 100px 0;
+    }
+
+    .heading {
+        font-size: 34px;
+    }
+
+    #banner_part .banner_slider .arrow {
+        height: 35px;
+        width: 35px;
+    }
+
+    #banner_part .banner_slider .prevarrow {
+        left: 0px;
+    }
+
+    #banner_part .banner_slider .nextarrow {
+        right: 0px;
+    }
+
+    .button a {
+        font-size: 15px;
+        padding: 9px 10px;
+    }
+
+    /* =====banner part end ===== */
+
+    /* ====about part start  ==== */
+    #about_part {
+        padding: 60px 0;
+    }
+
+    .heading {
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .paragraph {
+        text-align: center;
+    }
+
+    .button {
+        text-align: center;
+        margin-bottom: 35px;
+    }
+
+    #causes_part {
+        padding: 5px 0 70px 0;
+    }
+
+    /* ====about part end  ==== */
+
+    /* =====causes slider part start ==== */
+    #causes_part .causes_slider .cause_detail h3 {
+        text-align: center;
+    }
+
+    /* =====causes slider part end ==== */
+
+    /* =====donators part start ==== */
+    #donators_part {
+        padding: 0px 0 80px;
+    }
+
+    /* =====donators part end ==== */
+
+    /* =====gallery part start ===== */
+    #gallery_part {
+        padding-bottom: 75px;
+    }
+
+    .gallery_btm {
+        margin-top: 30px;
+    }
+
+    .gallery_top {
+        margin-bottom: 30px;
+    }
+
+    /* =====gallery part end ===== */
+
+    /* ===blog part start === */
+    #blog_part {
+        padding-bottom: 100px;
+    }
+
+    #blog_part .blog_slider .item {
+        padding: 25px 20px;
+    }
+
+    #blog_part .blog_slider h5 {
+        text-align: center;
+    }
+
+    #blog_part .blog_slider h4 {
+        text-align: center;
+    }
+
+    /* ===blog part end === */
+
+    /* ====contact part start ==== */
+    #contact_part {
+        padding-bottom: 25px;
+    }
+
+    #contact_part .contact_details .heading {
+        font-size: 35px;
+        margin-bottom: 23px;
+    }
+
+    /* ====contact part end ==== */
+
+    /* ===footer part start === */
+    #footer_part .social_icon .icon {
+        height: 33px;
+        width: 33px;
+    }
+
+    #footer_part .social_icon {
+        gap: 5px;
+    }
+
+    #footer_part .social_icon .icon i {
+        font-size: 16px;
+    }
+
+    /* ===footer part end === */
+}
